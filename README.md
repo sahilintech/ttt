@@ -23,4 +23,10 @@ Tailwind
 useState
 Font Awesome
 
+## Usage
+
+1) git clone "https://github.com/sahilintech/ttt.git"
+2) cd terribly-tiny-tales
+3) npm start
+
 ## Netlify Link
