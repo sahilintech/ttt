@@ -30,3 +30,4 @@ Font Awesome
 3) npm start
 
 ## Netlify Link
+https://terribly-profile.netlify.app/
